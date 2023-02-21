@@ -37,8 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 4
-(though technically recover and reset also qualify, it just depends on what your mistake is)
+Answer: 3
 ------
 
 Q4. Which GitHub feature provides task automation and workflow functionality, which can be used to implement CI/CD?
@@ -59,4 +58,4 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer: 2
+Answer: 3
